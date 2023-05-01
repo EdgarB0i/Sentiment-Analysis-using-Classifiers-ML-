@@ -1,5 +1,5 @@
 # Sentiment-Analysis-using-Classifiers
-**This is a group project done alongside users https://github.com/RAY101x(RAY101x) and https://github.com/FaiyazMamoon(Faiyaz Al-Mamoon)
+**This is a group project done alongside users https://github.com/RAY101x(RAY101x) and https://github.com/FaiyazMamoon(Faiyaz Al-Mamoon)**
 
 Using popular classifier models like Logistic Regression, Support Vector Machine(SVM), Naive Bayes etc. we performed sentiment analysis i.e determining whether a review is positive or negative. The used dataset "Restaurant_Reviews.tsv" has also been included.
 
